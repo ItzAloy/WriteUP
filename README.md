@@ -6,7 +6,7 @@ Format
 
 ├── <Nama CTF/EVENT>
 
-│ ├── <Nama CTF/EVENT + TAHUN>
+│ ├── <Nama Category CTF>
 
 │ │ ├── <WRITE-UP 1>
 
