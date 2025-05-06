@@ -21,4 +21,4 @@ Auhtor: Aditya Firman Nugroho
 
 
 ## FLAG
-IDN_CTF{Re30N3C}
+IDN_CTF{}
