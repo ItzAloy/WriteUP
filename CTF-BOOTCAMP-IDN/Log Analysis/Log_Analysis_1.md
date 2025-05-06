@@ -1,7 +1,8 @@
 # Log Analysis 1
 
 - [Challenge information](#challenge-information)
-- [Solution](#solution)
+- [Solve](#solve)
+- [FLAG](#flag)
 
 ## Challenge information
 
@@ -15,7 +16,7 @@ Format Flag : IDN_CTF{jawaban}
 Author : Aditya Firman Nugroho
 ```
 
-## Solution
+## Solve
 
 
 
