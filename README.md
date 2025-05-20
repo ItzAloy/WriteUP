@@ -1,2 +1,2 @@
 # WriteUP
-Just WU From CTFd
+Just WU
